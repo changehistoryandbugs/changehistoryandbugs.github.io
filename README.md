@@ -4,7 +4,7 @@ During the evolution of a software, developers perform changes that may lead to 
 
 ## Dataset
 The entire data are stored in the Neo4j graph-oriented database (Version 2.3).
-[Download Dataset Change Metrics](https://drive.google.com/file/d/1A5fDuZAR4nww1sAmVMLFoujFnSRxsFra/view?usp=sharing)
+[Download Dataset Change Metrics](https://drive.google.com/file/d/1A5fDuZAR4nww1sAmVMLFoujFnSRxsFra/view)
 
 ## Groups Table
 
